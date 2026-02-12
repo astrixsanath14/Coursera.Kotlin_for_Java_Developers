@@ -7,7 +7,7 @@ files:
     visible: true
     placeholders:
       - offset: 132
-        length: 86
+        length: 36
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -15,8 +15,8 @@ files:
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 383
-        length: 129
+      - offset: 333
+        length: 112
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -24,7 +24,7 @@ files:
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 676
+      - offset: 609
         length: 153
         placeholder_text: TODO()
         initial_state:
@@ -33,8 +33,8 @@ files:
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 970
-        length: 286
+      - offset: 903
+        length: 354
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -42,8 +42,8 @@ files:
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 1558
-        length: 553
+      - offset: 1522
+        length: 219
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -51,8 +51,8 @@ files:
         initialized_from_dependency: false
         selected: true
         status: Unchecked
-      - offset: 2247
-        length: 364
+      - offset: 1875
+        length: 477
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -88,10 +88,13 @@ files:
   - name: assignmentKey
     visible: false
     learner_created: false
+  - name: src/taxipark/asd
+    visible: true
+    learner_created: true
 feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/discussions
 status: Unchecked
 feedback:
   message: "Submission successful, please <a href=\"https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/submission\"\
     >check the status on Coursera</a>"
-  time: "Thu, 12 Feb 2026 08:26:00 UTC"
+  time: "Thu, 12 Feb 2026 08:29:34 UTC"
 record: -1

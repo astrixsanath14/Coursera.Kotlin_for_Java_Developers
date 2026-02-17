@@ -88,9 +88,6 @@ files:
   - name: assignmentKey
     visible: false
     learner_created: false
-  - name: src/taxipark/asd
-    visible: true
-    learner_created: true
 feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/xTPZT/taxi-park/discussions
 status: Unchecked
 feedback:

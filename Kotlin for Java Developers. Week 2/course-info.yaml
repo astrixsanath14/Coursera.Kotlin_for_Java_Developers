@@ -7,8 +7,6 @@ programming_language: Kotlin
 content:
   - Mastermind
 additional_files:
-  - name: build.gradle
-  - name: settings.gradle
   - name: gradle/wrapper/gradle-wrapper.properties
 mode: Study
 yaml_version: 5
